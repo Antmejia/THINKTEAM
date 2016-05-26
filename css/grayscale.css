@@ -334,7 +334,7 @@ body {
 	text-align: center;
 	padding: 0;
 	border-top: 6px solid rgba(255,255,255,.2);
-	color: #fff;
+	color: #d0d0d0;
 	background: #AEAEAE;
 	text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -345,7 +345,7 @@ body {
 footer.page-footer {
   margin-top: 20px;
   padding-top: 20px;
-  background-color: #ee6e73;
+  background-color: #F5F5F5;
 }
 
 footer.page-footer .footer-copyright {
